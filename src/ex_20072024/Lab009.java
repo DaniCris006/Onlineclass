@@ -31,6 +31,9 @@ public class Lab009 {
                 break;
             default:
                 System.out.println("Invalid Number");
+
         }
+        input.close();
     }
+
 }

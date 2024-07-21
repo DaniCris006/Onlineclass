@@ -16,6 +16,6 @@ public class Lab011 {
 
 
             default -> System.out.println("Invalid Number");
-        }
+        }input.close();
     }
 }

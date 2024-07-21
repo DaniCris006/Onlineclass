@@ -19,6 +19,11 @@ public class Lab008 {
         }else if (f==0){
             System.out.println("Fizz");
         }
+            else {
+            System.out.println("Not a FizzBuzz");
+        }
+        sc.close();
+        }
+
 
     }
-}
