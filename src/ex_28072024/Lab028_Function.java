@@ -1,6 +1,6 @@
 package ex_28072024;
 
-public class Lab028 {public static void main(String[] args) {
+public class Lab028_Function {public static void main(String[] args) {
     // Functions
     // Block of code which we can reuse.
     // 1. Pre-built - Math.max()
@@ -9,11 +9,11 @@ public class Lab028 {public static void main(String[] args) {
     // Two component of the functions
     // 1. Define
     // 2. Call the function
-
+    //Types of function(Param = Parameters = Arguments)
     //  1.Without Parameters and Without Return Type
-    // 2.Without Parameters but With Return Type
-    // 3.With Parameters and Without Return Type
-    // 4. With Parameters and With Return Type
+    //  2.Without Parameters but With Return Type
+    //  3.With Parameters and Without Return Type
+    //  4. With Parameters and With Return Type
 
     function_type1();
 
