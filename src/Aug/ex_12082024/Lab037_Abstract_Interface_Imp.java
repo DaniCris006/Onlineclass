@@ -1,6 +1,6 @@
 package Aug.ex_12082024;
 
-public class Lab037_Abstract_Interface {
+public class Lab037_Abstract_Interface_Imp {
 
 // Abstraction
 //    Abstract is a Keyword
