@@ -1,4 +1,4 @@
-package Aug.ex_12082024.multiple_Inheritance_Interface.ex2;
+package Aug.ex_12082024.ex_14082024.multiple_Inheritance_Interface.ex2;
 
 public interface E {
 //   using default and static Keyword we can complete a method in the interface .

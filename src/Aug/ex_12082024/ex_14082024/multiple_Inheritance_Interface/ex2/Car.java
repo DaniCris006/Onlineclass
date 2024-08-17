@@ -1,4 +1,4 @@
-package Aug.ex_12082024.multiple_Inheritance_Interface.ex2;
+package Aug.ex_12082024.ex_14082024.multiple_Inheritance_Interface.ex2;
 
 public class Car implements E {
 

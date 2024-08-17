@@ -1,4 +1,4 @@
-package Aug.ex_12082024.multiple_Inheritance_Interface.Static_Keyword;
+package Aug.ex_12082024.ex_14082024.multiple_Inheritance_Interface.Static_Keyword;
 
 public class Lab041 {
     public static void main(String[] args) {
