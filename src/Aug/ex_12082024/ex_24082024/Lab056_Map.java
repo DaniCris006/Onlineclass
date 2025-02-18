@@ -3,7 +3,7 @@ package Aug.ex_12082024.ex_24082024;
 import java.util.*;
 
 public class Lab056_Map {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         //Map- key and value pair
         //Hashmap// view in random order
         Map hm= new HashMap();
@@ -23,6 +23,7 @@ public class Lab056_Map {
         thm.put("Roll No","234");
         thm.put("Phone","9843947");
         System.out.println(thm+"Tree Map");
+        Thread. sleep(1);
         // Weak hashmap // Similar to Treemap sort
         Map whm= new WeakHashMap();
         whm.put("Name","Dani");
